@@ -1,3 +1,5 @@
+#INSERCIÓN DE DATOS UTILIZANDO CICLOS
+
 #!/bin/bash
 
 # Script to insert data from courses.csv and students.csv into students database
@@ -77,6 +79,7 @@ done
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+#DIFERENTES QUERYS PARA DESCUBRIR INFORMACIÓN SOBRE LOS ESTUDIANTES EN LA BASE DE DATOS
 
 
 #!/bin/bash
